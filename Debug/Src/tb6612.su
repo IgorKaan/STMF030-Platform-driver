@@ -1,0 +1,2 @@
+tb6612.c:9:6:Set_Freq	16	static
+tb6612.c:24:6:Set_TB6612_Dir	12	static
